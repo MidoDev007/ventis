@@ -1,6 +1,7 @@
 # Ventis
 Es un sistema de gestion de ventas de papeleria en el que le recomienda al usuario productos utilizando inteligencia artificial
 NT: *es un proyecto escolar medio feo. No esperar mucho*
+
 ---
 ## Requisitos
 - Python version 3.11
