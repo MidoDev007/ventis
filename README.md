@@ -16,3 +16,6 @@ NT: *es un proyecto escolar medio feo. No esperar mucho*
 
 #### Windows
 `pip install -r prod.txt`
+
+## Como ejecutar
+`python ./index.py`
