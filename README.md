@@ -1,2 +1,17 @@
 # ventis
-(PROYECTO ESCOLAR) Ventis es un sistema de gestion de ventas de papeleria en el que le recomienda al usuario productos utilizando inteligencia artificial.
+Es un sistema de gestion de ventas de papeleria en el que le recomienda al usuario productos utilizando inteligencia artificial
+
+---
+## Requisitos
+- Python version 3.11
+- pandas 2.2.2
+- Scikit-learn 1.5.1
+- tabulate 0.9.0
+
+---
+## Instalacion
+#### Linux
+`pip install -r ./prod.txt`
+
+#### Windows
+`pip install -r prod.txt`
