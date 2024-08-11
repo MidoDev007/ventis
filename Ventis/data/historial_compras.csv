@@ -1,0 +1,60 @@
+cliente_id,producto_id
+7,101
+7,102
+7,103
+1,104
+1,103
+1,102
+201,117
+201,108
+201,112
+201,113
+201,116
+201,101
+201,102
+201,105
+201,107
+201,113
+216,102
+216,105
+216,112
+201,"['producto_id', 'nombre', 'precio']"
+201,"['101', 'Cuaderno A4', '3.50']"
+201,"['102', 'Bolígrafo azul', '1.20']"
+201,"['103', 'Lápiz HB', '0.80']"
+201,"['104', 'Marcadores surtidos', '5.00']"
+201,"['105', 'Goma de borrar', '0.60']"
+201,"['106', 'Carpeta de anillas', '2.75']"
+201,"['107', 'Papel de impresora', '4.50']"
+201,"['108', 'Resaltadores', '2.30']"
+201,"['109', 'Regla de 30 cm', '1.00']"
+201,"['110', 'Portafolios', '6.00']"
+201,"['111', 'Notas adhesivas', '1.80']"
+201,"['112', 'Clip de papel', '0.90']"
+201,"['113', 'Calculadora', '7.50']"
+201,"['114', 'Folder de presentación', '3.20']"
+201,"['115', 'Cartulinas de colores', '4.00']"
+201,"['116', 'Portapapeles', '15.0']"
+201,"['117', 'Resma de Papel', '20.0']"
+201,"['118', 'Pluma', '5.0']"
+201,"['119', 'Marcadores', '8.0']"
+217,"['producto_id', 'nombre', 'precio']"
+217,"['101', 'Cuaderno A4', '3.50']"
+217,"['102', 'Bolígrafo azul', '1.20']"
+217,"['103', 'Lápiz HB', '0.80']"
+217,"['104', 'Marcadores surtidos', '5.00']"
+217,"['105', 'Goma de borrar', '0.60']"
+217,"['106', 'Carpeta de anillas', '2.75']"
+217,"['107', 'Papel de impresora', '4.50']"
+217,"['108', 'Resaltadores', '2.30']"
+217,"['109', 'Regla de 30 cm', '1.00']"
+217,"['110', 'Portafolios', '6.00']"
+217,"['111', 'Notas adhesivas', '1.80']"
+217,"['112', 'Clip de papel', '0.90']"
+217,"['113', 'Calculadora', '7.50']"
+217,"['114', 'Folder de presentación', '3.20']"
+217,"['115', 'Cartulinas de colores', '4.00']"
+217,"['116', 'Portapapeles', '15.0']"
+217,"['117', 'Resma de Papel', '20.0']"
+217,"['118', 'Pluma', '5.0']"
+217,"['119', 'Marcadores', '8.0']"
